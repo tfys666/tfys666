@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tfys666!
 - 🏫 I'm a student at CUFE, China.
 - 👀 I’m interested in statsitics and data science.
-- 🌱 I’m currently learning data mining,machine learning and deep learning.
+- 🌱 I’m currently learning data mining, machine learning and deep learning.
 - 📫 How to reach me: zichen-li@foxmail.com.
 
 <!---
